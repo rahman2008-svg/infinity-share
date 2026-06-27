@@ -1,0 +1,6 @@
+{
+  "name": "Infinity Share",
+  "description": "An ultra-fast, secure offline file sharing and transfer app inspired by SHAREit. Send and receive photos, videos, apps, music, and documents via high-speed local Web Share, discovery radar, and QR codes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
